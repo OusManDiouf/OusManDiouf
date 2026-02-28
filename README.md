@@ -15,7 +15,7 @@ I'm a software engineer with a strong bias toward **shipping** over theorizing. 
 
 > *"No amount of clever programming can remove semantic issues."*
 
-- 🔧 **TypeScript** , **Go**, **Java/Kotlin**.for backend services and tooling
+- 🔧 **TypeScript** , **Go**, **Java/Kotlin** for backend services and tooling
 - 📱 **Korlin** for cross-platform mobile
 - ☁️ **AWS** (ECS, EKS, Lambda) + **VPS/self-hosted** deployments
 - 🐳 Docker-first workflow, Kubernetes when it earns its complexity
