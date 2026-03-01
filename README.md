@@ -15,8 +15,10 @@ I'm a software engineer with a strong bias toward **shipping** over theorizing. 
 
 > *"No amount of clever programming can remove semantic issues."*
 
-- 🔧 **TypeScript** , **Go**, **Java/Kotlin** for backend services and tooling
-- 📱 **Korlin** for cross-platform mobile
+- 🦫 **Go** for backend services — idiomatic, performant, production-proven
+- 📱 **Kotlin** for native Android development
+- ⚛️ **React** as primary frontend framework — extensive production usage
+- 🔧 **TypeScript** for backend services and tooling
 - ☁️ **AWS** (ECS, EKS, Lambda) + **VPS/self-hosted** deployments
 - 🐳 Docker-first workflow, Kubernetes when it earns its complexity
 - ⚙️ CI/CD with GitHub Actions — from push to prod, automated
@@ -29,12 +31,15 @@ I'm a software engineer with a strong bias toward **shipping** over theorizing. 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend**
+**Mobile & Frontend**
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Infrastructure & DevOps**
